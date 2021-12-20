@@ -1,0 +1,14 @@
+org\patient\models\Lambda\LambdaResponse.class
+org\patient\datalayer\dataConfig\Config.class
+org\patient\models\Address.class
+org\patient\models\Patient.class
+org\patient\utils\CommonUtils.class
+org\patient\models\Lambda\LambdaRequest.class
+org\patient\datalayer\PatientServiceInterface.class
+org\patient\datalayer\PatientStorage.class
+org\patient\PatientRegServiceApi.class
+org\patient\Enum\Gender.class
+org\patient\datalayer\PatientEntity.class
+org\patient\App.class
+org\patient\service\PatientRegService.class
+org\patient\factory\PatientRegFactory.class
